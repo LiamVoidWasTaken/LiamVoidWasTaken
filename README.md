@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiamVoidWasTaken&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF4A9D&icon_color=FF4A9D" alt="LiamVoid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LiamVoidWasTaken&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF4A9D&icon_color=FF4A9D" alt="Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LiamVoidWasTaken&theme=tokyonight&hide_border=true&stroke=FF4A9D&ring=FF4A9D" alt="GitHub Streak" />
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
   ☕ I am a devoted coffee lover with a refined taste for dark blends.<br/>
   🧠 My passion lies in automation, clean design, and efficient code.<br/>
-  👾 I am the creator of <a href="https://github.com/LiamVoidWasTaken/codie.js" target="_blank"><code>Codie</code></a>, a private Discord bot forged in the depths of development.<br/>
+  👾 I am the creator of <a href="https://github.com/AetherWorks-Studios/codie.js" target="_blank"><code>Codie</code></a>, a private Discord bot forged in the depths of development.<br/>
   🌌 I am known as the <strong>Lord of the Void</strong>, and I embrace the silence between the stars.<br/>
 </p>
 <h3 align="center">🛠️ Languages & Tools</h3>
