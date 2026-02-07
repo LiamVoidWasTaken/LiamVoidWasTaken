@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiamVoidWasTaken&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF4A9D&icon_color=FF4A9D" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LiamVoidWasTaken&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF4A9D&icon_color=FF4A9D" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LiamVoidWasTaken&theme=tokyonight&hide_border=true&stroke=FF4A9D&ring=FF4A9D" alt="GitHub Streak" />
 </p>
