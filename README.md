@@ -12,7 +12,7 @@
 <p align="center">
   ☕ I am a devoted coffee lover with a refined taste for dark blends.<br/>
   🧠 My passion lies in automation, clean design, and efficient code.<br/>
-  👾 I am the creator of <a href="https://github.com/AetherWorks-Studios/codie.js" target="_blank"><code>Codie</code></a>, a private Discord bot forged in the depths of development.<br/>
+  👾 I am the creator of <a href="https://github.com/YourFriendLiamVoid/codie.js" target="_blank"><code>Codie</code></a>, a private Discord bot forged in the depths of development.<br/>
   🌌 I am known as the <strong>Lord of the Void</strong>, and I embrace the silence between the stars.<br/>
 </p>
 <h3 align="center">🛠️ Languages & Tools</h3>
